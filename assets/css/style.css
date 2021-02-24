@@ -1214,6 +1214,10 @@ section {
   position: relative;
 }
 
+.faq .faq-list p a{
+  display: contents;
+}
+
 .faq .faq-list a {
   display: block;
   position: relative;
@@ -1245,6 +1249,7 @@ section {
   margin-bottom: 0;
   padding: 10px 0 0 0;
 }
+
 
 .faq .faq-list .icon-show {
   display: none;
