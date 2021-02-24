@@ -1206,12 +1206,16 @@ section {
 .faq .faq-list li + li {
   margin-top: 15px;
 }
-
 .faq .faq-list li {
   padding: 20px;
   background: #fff;
   border-radius: 4px;
   position: relative;
+}
+
+.collapse-form{
+  height: 100%;
+  width: 100%;
 }
 
 .faq .faq-list p a{
