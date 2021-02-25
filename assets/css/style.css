@@ -636,6 +636,10 @@ section {
   }
 }
 
+.image-size{
+  padding-bottom: 30px;
+}
+
 /*--------------------------------------------------------------
 # Counts
 --------------------------------------------------------------*/
@@ -1610,4 +1614,11 @@ section {
   text-align: center;
   font-size: 13px;
   color: #fff;
+}
+
+
+.marque{
+  font-size: 180%; 
+  color: black; 
+  tab-size: 8;
 }
