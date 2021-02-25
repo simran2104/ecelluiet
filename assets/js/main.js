@@ -1,9 +1,4 @@
-/**
-* Template Name: Groovin - v4.0.1
-* Template URL: https://bootstrapmade.com/groovin-free-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 (function() {
   "use strict";
 
