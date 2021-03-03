@@ -587,27 +587,27 @@ section {
   min-height: 400px;
 }
 .about .image1 {
-  background: url("../img/past/oic.png") center center no-repeat;
+  background: url("../img/past-events/oic.png") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
 .about .image2 {
-  background: url("../img/past/mystory.png") center center no-repeat;
+  background: url("../img/past-events/mystory.png") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
 .about .image3 {
-  background: url("../img/past/innovation.png") center center no-repeat;
+  background: url("../img/past-events/innovation.png") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
 .about .image4 {
-  background: url("../img/past/sih.png") center center no-repeat;
+  background: url("../img/past-events/sih.png") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
 .about .image5 {
-  background: url("../img/past/orientation.png") center center no-repeat;
+  background: url("../img/past-events/orientation.png") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
