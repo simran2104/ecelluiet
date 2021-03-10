@@ -611,6 +611,11 @@ section {
   background-size: cover;
   min-height: 400px;
 }
+.about .image6 {
+  background: url("../img/active-events/one.png") center center no-repeat;
+  background-size: cover;
+  min-height: 400px;
+}
 
 @media (max-width: 991px) {
   .about .image {
@@ -1613,3 +1618,15 @@ section {
   color: black; 
   tab-size: 8;
 }
+
+
+.btn-primary {
+    background: #e33b3b;
+    border-color: transparent !important;
+    background-image: linear-gradient(to right,#b93464 0%,#e03256 100%);}
+
+
+.btn {
+    border-radius: 30px !important;
+    padding: 0.4rem 1.8rem;
+    transition: all 500ms;}
