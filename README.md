@@ -6,7 +6,7 @@
 
 A Web Application for E-cell UIET made using various tech stacks.
 
-<p align="center"><img src="screenshot.jpg" width="800" height="700" /></p>
+<p align="center"><img src="screenshot.jpg" width="600" height="400" /></p>
 
 ## Technologies Used:
 1. HTML
